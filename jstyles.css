@@ -1,0 +1,19 @@
+.hl-header{
+    background: #000;
+}
+.main-logo{
+    
+}
+.text-white{
+    color: white;
+    background: black;
+}
+.text-orange{
+    color: blue;
+}
+.text-yellow{
+    color:yellow;
+}
+.product-icon{
+    background-image: url(assets/img/helmetsDisplay.jpg);
+}
